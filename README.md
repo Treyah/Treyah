@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Juan Holguin aka @Treyah
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning JSS
+- 📫 You can reach me on discord through Treyha#0924 
